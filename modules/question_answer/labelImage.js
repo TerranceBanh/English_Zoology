@@ -1,0 +1,1 @@
+// render image with empty labels that user must fill
